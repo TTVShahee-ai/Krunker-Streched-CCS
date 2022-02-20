@@ -1,0 +1,10 @@
+@import url(https://envykrunk.github.io/removal/removal.css); #mainLogo{ display: none; }
+#uiBase[style*=scale]{
+    transform: scale(0.85,0.65)!important;
+    width: 118%!Important;
+    height: 155%!Important
+}
+
+#windowHolder,#termsInfo{
+    background: transparent!important
+}
